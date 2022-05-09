@@ -1,5 +1,8 @@
 _repo: Essay-on-the-Literature-of-the-Mexican-War_67840
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67840-h/images/backcover.jpg
 creator:
   author:
     agent_name: Lawson, W. T. (William Thornton)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '54485'
     url: http://www.gutenberg.org/2009/agents/54485
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67840#Essay-on-the-Literature-of-the-Mexican-War
 gutenberg_issued: '2022-04-15'
 identifiers:
   gutenberg: '67840'
